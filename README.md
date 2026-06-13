@@ -3,8 +3,13 @@
 > Premier Japanese Language Institute Website — Industry-level React application built with Vite + Tailwind CSS + React Router.
 
 ---
+## 
+<img width="1846" height="979" alt="image" src="https://github.com/user-attachments/assets/b319cfa8-54a3-466d-b7a0-c79310e5c330" />
+---
+<img width="1854" height="980" alt="image" src="https://github.com/user-attachments/assets/6352d487-ec58-40d7-af72-005f030ff533" />
+---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ```bash
 # 1. Install dependencies
@@ -19,7 +24,7 @@ http://localhost:5173
 
 ---
 
-## 🔐 Demo Login Credentials
+##  Demo Login Credentials
 
 | Role    | Email                          | Password    |
 |---------|-------------------------------|-------------|
